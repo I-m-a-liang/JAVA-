@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="day01_SpringMVC01:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0628d3c-73e3-44ca-9cb9-70f1f51d3d04" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_SpringMVC01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dwhsama/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/reaources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03_03SpringAOC/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03_03SpringAOC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03_03SpringAOC/src/main/java/com/dwhsama/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03_03SpringAOC/src/main/java/com/dwhsama/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03_03SpringAOC/src/main/java/com/dwhsama/utils/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03_03SpringAOC/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03_03SpringAOC/src/test/java/com/dwhsama/text/AopTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_02Mybatis_annotation/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_02Mybatis_annotation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_02Mybatis_annotation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_02Mybatis_annotation/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_02Mybatis_annotation/_02Mybatis_annotation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_02Mybatis_annotation/d:/axis.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_02Mybatis_annotation/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_02Mybatis_annotation/src/main/java/com/dwhsama/dao/IUserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_02Mybatis_annotation/src/main/java/com/dwhsama/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_02Mybatis_annotation/src/main/resources/SqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_02Mybatis_annotation/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_02Mybatis_annotation/src/test/java/com/dwhsama/MybatisTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_02Mybatis_annotation/target/classes/SqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_02Mybatis_annotation/target/classes/com/dwhsama/dao/IUserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_02Mybatis_annotation/target/classes/com/dwhsama/domain/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_02Mybatis_annotation/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_02Mybatis_annotation/target/test-classes/com/dwhsama/MybatisTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_03Mybatis_dao/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_03Mybatis_dao/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_03Mybatis_dao/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_03Mybatis_dao/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_03Mybatis_dao/_03Mybatis_dao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_03Mybatis_dao/d:/axis.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_03Mybatis_dao/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_03Mybatis_dao/src/main/java/com/dwhsama/dao/IUserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_03Mybatis_dao/src/main/java/com/dwhsama/dao/impl/UserDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_03Mybatis_dao/src/main/java/com/dwhsama/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_03Mybatis_dao/src/main/resources/SqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_03Mybatis_dao/src/main/resources/com/dwhsama/dao/IUserdao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_03Mybatis_dao/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_03Mybatis_dao/src/test/java/com/dwhsama/MybatisTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_03Mybatis_dao/target/classes/SqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_03Mybatis_dao/target/classes/com/dwhsama/dao/IUserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_03Mybatis_dao/target/classes/com/dwhsama/dao/IUserdao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_03Mybatis_dao/target/classes/com/dwhsama/dao/impl/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_03Mybatis_dao/target/classes/com/dwhsama/domain/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_03Mybatis_dao/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/_03Mybatis_dao/target/test-classes/com/dwhsama/MybatisTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_MyBatis/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_MyBatis/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_MyBatis/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_MyBatis/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_MyBatis/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_MyBatis/d:/axis.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_MyBatis/day01_MyBatis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_MyBatis/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_MyBatis/src/main/java/com/dwhsama/dao/IUserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_MyBatis/src/main/java/com/dwhsama/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_MyBatis/src/main/resources/SqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_MyBatis/src/main/resources/com/dwhsama/dao/IUserdao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_MyBatis/src/main/resources/jdbcConfig.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_MyBatis/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_MyBatis/src/test/java/com/dwhsama/MybatisTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_MyBatis/target/classes/SqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_MyBatis/target/classes/com/dwhsama/dao/IUserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_MyBatis/target/classes/com/dwhsama/dao/IUserdao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_MyBatis/target/classes/com/dwhsama/domain/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_MyBatis/target/classes/jdbcConfig.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_MyBatis/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_MyBatis/target/test-classes/com/dwhsama/MybatisTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_04Bean/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_04Bean/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_04Bean/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_04Bean/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_04Bean/day01_eesy_04Bean.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_04Bean/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_04Bean/src/main/java/com/dwhsama/factory/InstanceFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_04Bean/src/main/java/com/dwhsama/factory/StaticFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_04Bean/src/main/java/com/dwhsama/service/IAccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_04Bean/src/main/java/com/dwhsama/service/impl/AccountServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_04Bean/src/main/java/com/dwhsama/ui/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_04Bean/src/main/resources/bean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_04Bean/target/classes/bean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_04Bean/target/classes/com/dwhsama/factory/InstanceFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_04Bean/target/classes/com/dwhsama/factory/StaticFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_04Bean/target/classes/com/dwhsama/service/IAccountService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_04Bean/target/classes/com/dwhsama/service/impl/AccountServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_04Bean/target/classes/com/dwhsama/ui/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_05DI/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_05DI/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_05DI/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_05DI/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_05DI/day01_eesy_05DI.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_05DI/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_05DI/src/main/java/com/dwhsama/service/IAccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_05DI/src/main/java/com/dwhsama/service/impl/AccountServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_05DI/src/main/java/com/dwhsama/service/impl/AccountServiceImpl2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_05DI/src/main/java/com/dwhsama/service/impl/AccountServiceImpl3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_05DI/src/main/java/com/dwhsama/ui/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_05DI/src/main/resources/bean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_05DI/target/classes/bean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_05DI/target/classes/com/dwhsama/service/IAccountService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_05DI/target/classes/com/dwhsama/service/impl/AccountServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_05DI/target/classes/com/dwhsama/service/impl/AccountServiceImpl2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_05DI/target/classes/com/dwhsama/service/impl/AccountServiceImpl3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_05DI/target/classes/com/dwhsama/ui/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_springIoc/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_springIoc/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_springIoc/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_springIoc/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_springIoc/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_springIoc/day01_eesy_springIoc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_springIoc/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_springIoc/src/main/java/com/dwhsama/dao/IAccountDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_springIoc/src/main/java/com/dwhsama/dao/impl/AccountDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_springIoc/src/main/java/com/dwhsama/service/IAccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_springIoc/src/main/java/com/dwhsama/service/impl/AccountServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_springIoc/src/main/java/com/dwhsama/ui/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_springIoc/src/main/resources/bean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_springIoc/target/classes/bean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_springIoc/target/classes/com/dwhsama/dao/IAccountDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_springIoc/target/classes/com/dwhsama/dao/impl/AccountDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_springIoc/target/classes/com/dwhsama/service/IAccountService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_springIoc/target/classes/com/dwhsama/service/impl/AccountServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day01_eesy_springIoc/target/classes/com/dwhsama/ui/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_01anno_ioc/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_01anno_ioc/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_01anno_ioc/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_01anno_ioc/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_01anno_ioc/day02_eesy_01anno_ioc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_01anno_ioc/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_01anno_ioc/src/main/java/com/dwhsama/dao/IAccountDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_01anno_ioc/src/main/java/com/dwhsama/dao/impl/AccountDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_01anno_ioc/src/main/java/com/dwhsama/dao/impl/AccountDaoImpl2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_01anno_ioc/src/main/java/com/dwhsama/service/IAccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_01anno_ioc/src/main/java/com/dwhsama/service/impl/AccountServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_01anno_ioc/src/main/java/com/dwhsama/ui/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_01anno_ioc/src/main/resources/bean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_01anno_ioc/target/classes/bean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_01anno_ioc/target/classes/com/dwhsama/dao/IAccountDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_01anno_ioc/target/classes/com/dwhsama/dao/impl/AccountDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_01anno_ioc/target/classes/com/dwhsama/dao/impl/AccountDaoImpl2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_01anno_ioc/target/classes/com/dwhsama/service/IAccountService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_01anno_ioc/target/classes/com/dwhsama/service/impl/AccountServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_01anno_ioc/target/classes/com/dwhsama/ui/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_02account_xmlioc/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_02account_xmlioc/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_02account_xmlioc/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_02account_xmlioc/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_02account_xmlioc/day02_eesy_02account_xmlioc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_02account_xmlioc/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_02account_xmlioc/src/main/java/com/dwhsama/dao/IAccountDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_02account_xmlioc/src/main/java/com/dwhsama/dao/impl/AccountDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_02account_xmlioc/src/main/java/com/dwhsama/domain/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_02account_xmlioc/src/main/java/com/dwhsama/service/IAccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_02account_xmlioc/src/main/java/com/dwhsama/service/impl/AccountServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_02account_xmlioc/src/main/resources/bean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_02account_xmlioc/src/test/java/com/dwhsama/test/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_02account_xmlioc/target/classes/bean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_02account_xmlioc/target/classes/com/dwhsama/dao/IAccountDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_02account_xmlioc/target/classes/com/dwhsama/dao/impl/AccountDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_02account_xmlioc/target/classes/com/dwhsama/domain/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_02account_xmlioc/target/classes/com/dwhsama/service/IAccountService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_02account_xmlioc/target/classes/com/dwhsama/service/impl/AccountServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_02account_xmlioc/target/test-classes/com/dwhsama/test/AccountTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_03acconut_annoioc/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_03acconut_annoioc/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_03acconut_annoioc/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_03acconut_annoioc/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_03acconut_annoioc/day02_eesy_03acconut_annoioc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_03acconut_annoioc/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_03acconut_annoioc/src/main/java/com/dwhsama/dao/IAccountDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_03acconut_annoioc/src/main/java/com/dwhsama/dao/impl/AccountDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_03acconut_annoioc/src/main/java/com/dwhsama/domain/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_03acconut_annoioc/src/main/java/com/dwhsama/service/IAccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_03acconut_annoioc/src/main/java/com/dwhsama/service/impl/AccountServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_03acconut_annoioc/src/main/resources/bean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_03acconut_annoioc/src/test/java/com/dwhsama/test/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_03acconut_annoioc/target/classes/bean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_03acconut_annoioc/target/classes/com/dwhsama/dao/IAccountDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_03acconut_annoioc/target/classes/com/dwhsama/dao/impl/AccountDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_03acconut_annoioc/target/classes/com/dwhsama/domain/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_03acconut_annoioc/target/classes/com/dwhsama/service/IAccountService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_03acconut_annoioc/target/classes/com/dwhsama/service/impl/AccountServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_03acconut_annoioc/target/test-classes/com/dwhsama/test/AccountTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/day02_eesy_04account_annoioc_withoutxml.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/src/main/java/com/dwhsama/dao/IAccountDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/src/main/java/com/dwhsama/dao/impl/AccountDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/src/main/java/com/dwhsama/domain/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/src/main/java/com/dwhsama/service/IAccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/src/main/java/com/dwhsama/service/impl/AccountServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/src/main/java/config/SpringConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/src/main/java/config/jdbcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/src/main/resources/jdbcConfig.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/src/test/java/com/dwhsama/test/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/src/test/java/com/dwhsama/test/QueryTunnerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/target/classes/com/dwhsama/dao/IAccountDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/target/classes/com/dwhsama/dao/impl/AccountDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/target/classes/com/dwhsama/domain/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/target/classes/com/dwhsama/service/IAccountService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/target/classes/com/dwhsama/service/impl/AccountServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/target/classes/config/SpringConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/target/classes/config/jdbcConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/target/classes/jdbcConfig.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/target/test-classes/com/dwhsama/test/AccountTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/day02_eesy_04account_annoioc_withoutxml/target/test-classes/com/dwhsama/test/QueryTunnerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic01/Demo01Const.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic01/Demo02Variable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic01/Demo03VariableNotice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic01/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic02/Demo01DataType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic02/Demo02DataType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic02/Demo03DataTypeChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic02/Demo04Operator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic02/Demo05Plus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic02/Demo06Operator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic02/Demo07Operator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic02/Demo08Operator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic02/Demo09Logic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic02/Demo10Operator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic02/Demo11Method.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic02/Demo12Notice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic02/Demo13Notice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic03/Demo01Sequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic03/Demo02If.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic03/Demo03IfElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic03/Demo04IfElseExt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic03/Demo05IfElsePractise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic03/Demo06Max.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic03/Demo07Switch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic03/Demo08SwitchNotice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic03/Demo09For.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic03/Demo10While.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic03/Demo11DoWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic03/Demo12HundredSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic03/Demo13LoopDifference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic03/Demo14Break.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic03/Demo15Continue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic03/Demo16DeadLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/com/dwhsama/basic03/Demo17LoopHourAndMinute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/java/dwhsma/javaBasic/javabasic_ding01/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/main/main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/test/java/dwhsma/javaBasic/javabasic_ding01/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java57期学习/javabasic-ding01/src/test/test.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/reaources/springmvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dwhsama/controller/HelloController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/success.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dwhsama/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/seccess.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/reaources/springmvc.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="22" />
+    <option name="y" value="336" />
+    <option name="width" value="1228" />
+    <option name="height" value="835" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="day01_SpringMVC01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day01_SpringMVC01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day01_SpringMVC01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day01_SpringMVC01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day01_SpringMVC01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day01_SpringMVC01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day01_SpringMVC01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day01_SpringMVC01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day01_SpringMVC01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day01_SpringMVC01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day01_SpringMVC01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day01_SpringMVC01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dwhsama" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day01_SpringMVC01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day01_SpringMVC01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dwhsama" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day01_SpringMVC01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day01_SpringMVC01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="reaources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day01_SpringMVC01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day01_SpringMVC01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day01_SpringMVC01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day01_SpringMVC01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day01_SpringMVC01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day01_SpringMVC01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day01_SpringMVC01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590676379521" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.35" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_day01_SpringMVC01" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51209" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" value="" />
+          <host-id />
+        </data>
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51223" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="localhost" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.35" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/day01_SpringMVC01/" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="day01_SpringMVC01:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/day01_SpringMVC01" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_day01_SpringMVC01" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51209" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="day01_SpringMVC01:war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0628d3c-73e3-44ca-9cb9-70f1f51d3d04" name="Default Changelist" comment="" />
+      <created>1590583973693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590583973693</updated>
+      <workItem from="1590583974832" duration="5991000" />
+      <workItem from="1590751172289" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5996000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="22" y="336" width="1228" height="835" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25379425" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32974428" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32974428" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32974428" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/reaources/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dwhsama/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/success.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>day01_SpringMVC01:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>day01_SpringMVC01</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: javax.servlet.jsp:jsp-api:2.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
